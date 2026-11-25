@@ -66,33 +66,7 @@ The model generates text autoregressively, predicting one token at a time based 
 - FastAPI backend integration.
 - Experimental AI-powered text generation.
 
-## 📂 Project Structure
 
-The following is a suggested organization for the project:
-
-```text
-Telugu-Story-Generator/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── backend/
-│   ├── main.py
-│   ├── model/
-│   ├── tokenizer/
-│   └── requirements.txt
-│
-├── dataset/
-│   └── telugu_stories.txt
-│
-├── README.md
-└── .gitignore
-```
-
-*Note: Adjust the folder structure according to the actual implementation.*
 
 ## ⚙️ Installation and Setup
 
